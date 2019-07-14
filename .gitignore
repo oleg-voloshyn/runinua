@@ -1,3 +1,6 @@
 _site
 .sass-cache
 .jekyll-metadata
+bin
+_site/bin
+/app/_site/bin
