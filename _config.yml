@@ -42,4 +42,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-exclude: ['vendor']
+exclude:
+  - bin
+  - _site/bin
+  - /app/_site/bin
